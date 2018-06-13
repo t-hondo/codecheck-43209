@@ -6,8 +6,5 @@ def main(argv):
     # Edit and remove this code as you like.
 
     for i, v in enumerate(argv):
-        print("argv[{0}]: {1}".format(i, v))
-
-print("Hello World")
-print("Hello 織田信長")
-print("Hello codecheck")
+#        print("argv[{0}]: {1}".format(i, v))
+        print("Hello {0}".format(v))
